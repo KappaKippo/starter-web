@@ -12,4 +12,6 @@ This is a simple web project.
 
 ## How to Contribute
 
+Please for this repository!
+
 Git Tutorial 2024
