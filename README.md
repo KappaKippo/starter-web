@@ -16,4 +16,5 @@ This is a simple web project.
 
 Please for this repository!
 
-Git Tutorial 2024
+Git Tutorial 2024.
+All rights reserved.
